@@ -1,4 +1,8 @@
-mobileshop
-==========
+# Mobile shop
+===========
 
-Mobile Shop
+## Installation
+
+Install postgrep.app
+
+https://devcenter.heroku.com/articles/rails3
